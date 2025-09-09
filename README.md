@@ -19,7 +19,7 @@ flutter --version
 
 # Flutter Setup Guide
 
-![Flutter Setup Screenshot](flutter-screenshot1.png)
+![Flutter Setup Screenshot](images/flutter-screenshot1.png)
 
 
 2. iOS/macOS 用セットアップ
