@@ -17,6 +17,9 @@ exec $SHELL -l
 flutter --version
 ```
 
+![Flutter Setup Screenshot](flutter-screenshot.png)
+
+
 2. iOS/macOS 用セットアップ
 ```
 sudo gem install cocoapods
