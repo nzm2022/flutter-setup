@@ -32,11 +32,7 @@ flutter doctor
 flutter doctor の ❌ を順に解決。
 ```
 
-
-
 ![Flutter Setup Screenshot](images/flutter-precache.png)
-
-
 
 ![Flutter Setup Screenshot](images/flutter-doctor.png)
 
@@ -49,17 +45,17 @@ flutter doctor の ❌ を順に解決。
 cd ~
 flutter create hello_flutter
 cd hello_flutter
-
-![Flutter Setup Screenshot](images/flutter-doctor.png)
 ```
 
-```# macOS 実行
+# macOS 実行
+```
 flutter run -d macos
 ```
 ![Flutter Setup Screenshot](images/hello-flutter-macos.png)
 
 
-```# iOS シミュレータ実行
+# iOS シミュレータ実行
+```
 open -a Simulator
 flutter devices
 flutter run -d "iPhone 15"
