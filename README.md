@@ -19,6 +19,7 @@ flutter --version
 
 # Flutter Setup Guide
 
+
 ![Flutter Setup Screenshot](images/flutter-screenshot1.png)
 
 
@@ -30,6 +31,14 @@ flutter doctor
 
 flutter doctor の ❌ を順に解決。
 ```
+
+
+
+![Flutter Setup Screenshot](images/flutter-precache.png)
+
+
+![Flutter Setup Screenshot](images/flutter-doctor.png)
+
 
 
 3. プロジェクト作成と実行
