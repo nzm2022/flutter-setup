@@ -1,3 +1,7 @@
+## More Docs
+- [Localization Guide](Localization.md)
+- [Setup Guide](README.md)
+  
 # flutter-setup
 first flutter project creation and step by step
 
