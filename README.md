@@ -17,7 +17,9 @@ exec $SHELL -l
 flutter --version
 ```
 
-![Flutter Setup Screenshot](flutter-screenshot.png)
+# Flutter Setup Guide
+
+![Flutter Setup Screenshot](flutter-screenshot1.png)
 
 
 2. iOS/macOS 用セットアップ
