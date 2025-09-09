@@ -21,7 +21,6 @@ flutter --version
 
 ![Flutter Setup Screenshot](flutter-screenshot1.png)
 
-![Flutter Logo](https://github.com/user-attachments/assets/514de39c-3f46-4d3f-876e-2e1e3bfc2310)
 
 2. iOS/macOS 用セットアップ
 ```
