@@ -37,24 +37,34 @@ flutter doctor の ❌ を順に解決。
 ![Flutter Setup Screenshot](images/flutter-precache.png)
 
 
+
 ![Flutter Setup Screenshot](images/flutter-doctor.png)
 
 
 
+
 3. プロジェクト作成と実行
+
 ```
 cd ~
 flutter create hello_flutter
 cd hello_flutter
 
-# macOS 実行
-flutter run -d macos
+![Flutter Setup Screenshot](images/flutter-doctor.png)
+```
 
-# iOS シミュレータ実行
+```# macOS 実行
+flutter run -d macos
+```
+![Flutter Setup Screenshot](images/hello-flutter-macos.png)
+
+
+```# iOS シミュレータ実行
 open -a Simulator
 flutter devices
 flutter run -d "iPhone 15"
 ```
+![Flutter Setup Screenshot](images/hello-flutter-iOS-simulator.png)
 
 4. よく使うコマンド
 flutter devices                 # デバイス一覧
