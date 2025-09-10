@@ -86,3 +86,10 @@ CocoaPods エラー → sudo gem install cocoapods
 古いキャッシュ → flutter clean && flutter pub get
 
 
+
+初めてのFlutterアプリ、実行まで完了
+一通り、画面作成までできた
+https://codelabs.developers.google.com/codelabs/flutter-codelab-first?hl=ja#0
+
+<img width="913" height="653" alt="image" src="https://github.com/user-attachments/assets/d0ab2f9a-0ea7-47d5-93fb-f32eb68970d3" />
+
