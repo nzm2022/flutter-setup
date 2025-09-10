@@ -80,10 +80,10 @@ flutter doctor --android-licenses
 
 
 5. トラブルシュート
-PATH が通らない → echo $PATH | tr : '\n' | grep flutter
-CocoaPods エラー → sudo gem install cocoapods
-実機 iOS で署名エラー → Xcode → Runner ターゲット → Signing & Capabilities → Team 選択
-古いキャッシュ → flutter clean && flutter pub get
+PATH が通らない → echo $PATH | tr : '\n' | grep flutter\
+CocoaPods エラー → sudo gem install cocoapods\
+実機 iOS で署名エラー → Xcode → Runner ターゲット → Signing & Capabilities → Team 選択\
+古いキャッシュ → flutter clean && flutter pub get\
 
 
 
