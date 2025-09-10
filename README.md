@@ -97,11 +97,11 @@ https://codelabs.developers.google.com/codelabs/flutter-codelab-first?hl=ja#0
 <img width="913" height="653" alt="image" src="https://github.com/user-attachments/assets/d0ab2f9a-0ea7-47d5-93fb-f32eb68970d3" />
 
 7. メモ MVC VMMV
-   Laravel:MVC View+Model+Controller
-   SwiftUI/Flutter: MVVM Model+View+ViewModel
-
-   View: UI (WPF/SwiftUI)
-   ViewModel: Logic that customize for View
-   Model: Valuables definition
+   Laravel:MVC View+Model+Controller\
+   SwiftUI/Flutter: MVVM Model+View+ViewModel\
+\
+   View: UI (WPF/SwiftUI)\
+   ViewModel: Logic that customize for View\
+   Model: Valuables definition\
 
   
