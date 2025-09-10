@@ -93,6 +93,7 @@ https://codelabs.developers.google.com/codelabs/flutter-codelab-first?hl=ja#0
 - Reactっぽい。まぁ、今の流行りはこんな感じか。
 - ロジックを長く描く感じじゃない。簡素にテンプレを埋めているような感じ
 - Reactにも言えるけど、暗黙の決め事が多いのか。噛み砕いていく必要なくて良い。（のかはわからない）
+- SwiftUIにも似ているけれど、Swiftで書くならこれでも良いと思った。React Nativeより直感的 (js,Node嫌い)
 
 <img width="913" height="653" alt="image" src="https://github.com/user-attachments/assets/d0ab2f9a-0ea7-47d5-93fb-f32eb68970d3" />
 
